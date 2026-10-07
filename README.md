@@ -12,8 +12,7 @@ A steel block (100 × 80 × 30 mm) with a central pocket, a machined outer conto
 | Path | Description |
 |------|-------------|
 | [`gcode/1001.nc`](gcode/1001.nc) | Complete G-code program (program 1001, 11,101 lines, blocks N10–N55455) |
-| [`docs/report_EN.md`](docs/report_EN.md) | Project report (English translation) |
-| [`docs/PK3D_Grupa3_Maria_Malinka_EN.pdf`](docs/PK3D_Grupa3_Maria_Malinka_EN.pdf) | Same report as a PDF |
+| [`report_EN.pdf`](docs/PK3D_Grupa3_Maria_Malinka_EN.pdf) | Report as a PDF |
 | [`docs/images/`](docs/images/) | Figures from the report (model, sketch, toolpath screenshots) |
 
 ## Part
